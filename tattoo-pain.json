@@ -1,0 +1,51 @@
+{
+  "name": "Tattoo Placement Pain Levels",
+  "description": "Pain levels (out of 10) and healing times for 7 common tattoo placement areas.",
+  "license": "CC-BY-4.0",
+  "attribution": "Source: inkpreview.co",
+  "updated": "2026-11-01",
+  "data": [
+    {
+      "placement": "forearm",
+      "pain_scale_of_10": "2-4",
+      "healing_weeks": "2-4",
+      "detail_url": "https://inkpreview.co/tattoo-ideas/placement/forearm/"
+    },
+    {
+      "placement": "shoulder",
+      "pain_scale_of_10": "3-5",
+      "healing_weeks": "2-4",
+      "detail_url": "https://inkpreview.co/tattoo-ideas/placement/shoulder/"
+    },
+    {
+      "placement": "thigh",
+      "pain_scale_of_10": "4-6",
+      "healing_weeks": "2-4",
+      "detail_url": "https://inkpreview.co/tattoo-ideas/placement/thigh/"
+    },
+    {
+      "placement": "wrist",
+      "pain_scale_of_10": "4-7",
+      "healing_weeks": "2-4",
+      "detail_url": "https://inkpreview.co/tattoo-ideas/placement/wrist/"
+    },
+    {
+      "placement": "back",
+      "pain_scale_of_10": "5-7",
+      "healing_weeks": "2-4",
+      "detail_url": "https://inkpreview.co/tattoo-ideas/placement/back/"
+    },
+    {
+      "placement": "ankle",
+      "pain_scale_of_10": "5-7",
+      "healing_weeks": "2-4",
+      "detail_url": "https://inkpreview.co/tattoo-ideas/placement/ankle/"
+    },
+    {
+      "placement": "ribs",
+      "pain_scale_of_10": "7-9",
+      "healing_weeks": "4-8",
+      "detail_url": "https://inkpreview.co/tattoo-ideas/placement/ribs/"
+    }
+  ]
+}
